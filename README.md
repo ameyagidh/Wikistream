@@ -54,7 +54,7 @@ To set up this project, follow these steps:
 
    ```bash
    git clone https://github.com/ameyagidh/Wikistream.git
-   cd your-repo
+   cd springbootkafka
    ```
 2. Install SQL and start the service
 3. Install IntelliJ IDE
