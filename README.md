@@ -5,9 +5,13 @@
 This project demonstrates how to build a real-time data processing system for consuming and producing Wikimedia data using Apache Kafka and Spring Boot microservices. It allows you to stream and process data from Wikimedia in a structured manner. This README provides an overview of the project's architecture, setup, and usage.
 
 ## Images
+### SpringBoot Producer
 <img width="1496" alt="Screenshot 2023-10-30 at 4 20 04 AM" src="https://github.com/ameyagidh/Wikistream/assets/65457905/989544a6-2925-46b8-bf72-848d670bee2b">
+### SpringBoot Consumer
 <img width="1496" alt="Screenshot 2023-10-30 at 4 20 28 AM" src="https://github.com/ameyagidh/Wikistream/assets/65457905/f6c343a7-8572-4780-8ad7-3096077b48ac">
+### SQL DataBase stores wiki data 
 <img width="773" alt="Screenshot 2023-10-30 at 4 22 47 AM" src="https://github.com/ameyagidh/Wikistream/assets/65457905/19dd80e2-0389-4b53-8d26-83bf0df3b30d">
+### Apache Kafka Consumer and Producer
 <img width="1496" alt="Screenshot 2023-10-30 at 4 25 30 AM" src="https://github.com/ameyagidh/Wikistream/assets/65457905/fb597389-f44c-4fdb-b3b1-31030459507d">
 
 
