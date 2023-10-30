@@ -1,6 +1,6 @@
 # Wikistream
 
-# Wikimedia Real-Time Data Processing with Apache Kafka and Spring Boot
+## Wikimedia Real-Time Data Processing with Apache Kafka and Spring Boot
 
 This project demonstrates how to build a real-time data processing system for consuming and producing Wikimedia data using Apache Kafka and Spring Boot microservices. It allows you to stream and process data from Wikimedia in a structured manner. This README provides an overview of the project's architecture, setup, and usage.
 
