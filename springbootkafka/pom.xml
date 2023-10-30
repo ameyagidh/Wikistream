@@ -15,6 +15,7 @@
 	<description>Kafka and Spring Boot project for wikipedia stream </description>
 	<modules>
 		<module>springboot-kafkaproducer-wikistream</module>
+		<module>springboot-kafkaconsumerdatabase-wikistream</module>
 	</modules>
 	<packaging>pom</packaging>
 	<properties>
