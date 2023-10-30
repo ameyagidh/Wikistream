@@ -23,6 +23,7 @@ This project demonstrates how to build a real-time data processing system for co
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
+- [License](#License)
 
 
 ## Architecture
@@ -59,3 +60,10 @@ To set up this project, follow these steps:
 2. Install SQL and start the service
 3. Install IntelliJ IDE
 
+## Usage
+Start the Kafka Producer to fetch Wikimedia data and publish it to Kafka.
+Start the Kafka Consumer to process the incoming data and perform necessary operations.
+You can customize the processing logic in the Kafka Consumer to suit your specific use case.
+
+## License
+This project is licensed under the MIT License.
